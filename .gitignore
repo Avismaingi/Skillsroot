@@ -2,6 +2,7 @@
 
 src/firebaseConfig.js
 package-lock.json
+package.json
 
 # dependencies
 /node_modules
